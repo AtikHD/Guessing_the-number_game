@@ -25,3 +25,9 @@ Hint: Your guessed number is smaller . Go for a larger number.( • ᴗ - )
 
 > 7
 Congratulations!(˶ᵔ ᵕ ᵔ˶) You guessed it right.
+
+.### 🎥 Demo Output
+
+!GuessTheNumberGame Demo](GuessTheNumberGame.gif)
+
+*This simple Java program prints a GuessTheNumberGame of numbers.*
