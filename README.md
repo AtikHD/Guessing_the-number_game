@@ -15,7 +15,12 @@ A beginner-friendly Java console game where the user tries to guess a randomly g
 
 ---
 
-## 🎮 Sample Gameplay
+###🎥 Demo Output
+
+!GuessTheNumberGame Demo](GuessTheNumberGame.gif)
+
+*This simple Java program prints a GuessTheNumberGame of numbers.*
+###🎮 Sample Gameplay
 
 ```shell
 Guess a number from 0-10. You have only 5 guesses. Good luck.( • ᴗ - ) 
@@ -26,8 +31,4 @@ Hint: Your guessed number is smaller . Go for a larger number.( • ᴗ - )
 > 7
 Congratulations!(˶ᵔ ᵕ ᵔ˶) You guessed it right.
 
-.### 🎥 Demo Output
 
-!GuessTheNumberGame Demo](GuessTheNumberGame.gif)
-
-*This simple Java program prints a GuessTheNumberGame of numbers.*
