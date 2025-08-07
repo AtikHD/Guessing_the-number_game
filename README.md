@@ -17,7 +17,8 @@ A beginner-friendly Java console game where the user tries to guess a randomly g
 
 ###🎥 Demo Output
 
-!GuessTheNumberGame Demo](GuessTheNumberGame.gif)
+![GuessTheNumberGame Demo](GuessTheNumberGame.gif)
+
 
 *This simple Java program prints a GuessTheNumberGame of numbers.*
 ###🎮 Sample Gameplay
